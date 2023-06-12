@@ -12,6 +12,16 @@ body {
     text-align: center;
 }
 
+.tip_card {
+    border-radius: 32px;
+    margin: 16px;
+    padding: 32px;
+    background-color: #0061e7;
+    color: white;
+    font-size: 1.125rem;
+    line-height: 2rem;
+}
+
 .showcase {
     display: flex;
     flex-wrap: wrap;
@@ -36,8 +46,25 @@ body {
     border-radius: 32px 32px 0 0;
 }
 
+.showcase_text_container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px;
+}
+
 .showcase_text {
-    padding: 0 16px;
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+    font-weight: bold;
+}
+
+.count_capsule {
+    height: 1.25rem;
+    padding: 1px 12px;
+    border-radius: .625rem;
+    background-color: #0061e7;
+    color: white;
 }
 
 .image_container {

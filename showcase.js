@@ -137,7 +137,7 @@ const showcaseMap = [
         "src/Material You for large screens guidance/vlcsnap-2023-05-11-13h12m46s439.png",
         "src/Material You for large screens guidance/vlcsnap-2023-05-11-13h13m25s882.png",
         "src/Material You for large screens guidance/vlcsnap-2023-05-11-13h13m41s203.png",
-    ]
+    ],
 ]
 const [_, image, ...images] = showcaseMap.find(([t]) => t === title)
 showcase.innerHTML += images.map(image => `
