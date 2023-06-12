@@ -13,3 +13,11 @@ showcase.innerHTML += showcaseMap.map(([title, image, count]) => `
     </div>
 </a>
 `).join('')
+showcase.innerHTML += `
+<div class="showcase_container">
+    <div class="showcase_image"></div>
+    <div class="showcase_text_container">
+        <div class="showcase_text">Coming soon...</div>
+    </div>
+</div>
+`
