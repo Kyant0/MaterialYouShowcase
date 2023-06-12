@@ -38,7 +38,7 @@ const showcaseMap = [
     ],
     [
         "Making Material You",
-        "src/Making Material You/vlcsnap-2023-05-11-12h53m32s354.png",
+        "src/Making Material You/vlcsnap-2023-05-11-12h51m32s100.png",
         "src/Making Material You/vlcsnap-2023-05-11-12h33m02s246.png",
         "src/Making Material You/vlcsnap-2023-05-11-12h33m46s039.png",
         "src/Making Material You/vlcsnap-2023-05-11-12h35m06s411.png",
