@@ -6,7 +6,7 @@ const showcaseMap = [
         '75'
     ],
     [
-        "Material You for large screens guidance",
+        "Material You for large screens",
         "src/Material You for large screens guidance/vlcsnap-2023-05-11-13h09m12s468.png",
         '21'
     ],
@@ -16,7 +16,7 @@ const showcaseMap = [
         '29'
     ],
     [
-        "Android 12",
+        "Android 12 Evolution",
         "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1._Android_12_Keyword_Header.width-1600.format-webp.webp",
         '56'
     ],

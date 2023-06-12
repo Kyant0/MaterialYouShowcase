@@ -87,9 +87,9 @@ const showcaseMap = [
         ],
     ],
     [
-        "Material You for large screens guidance",
+        "Material You for large screens",
         [
-            "Material You for large screens guidance",
+            "Material You for large screens",
             [
                 "src/Material You for large screens guidance/vlcsnap-2023-05-11-13h05m09s631.png",
                 "src/Material You for large screens guidance/vlcsnap-2023-05-11-13h05m27s206.png",
@@ -151,18 +151,18 @@ const showcaseMap = [
         ],
     ],
     [
-        "Android 12",
+        "Android 12 Evolution",
         [
             "\"Material NEXT\"",
             [
+                "https://fdn.gsmarena.com/imgroot/news/21/02/android-12-screenshots/-1200/gsmarena_007.jpg",
+                "https://fdn.gsmarena.com/imgroot/news/21/02/android-12-screenshots/-1200/gsmarena_008.jpg",
+                "https://fdn.gsmarena.com/imgroot/news/21/02/android-12-screenshots/-1200/gsmarena_009.jpg",
                 "https://fdn.gsmarena.com/imgroot/news/21/02/android-12-screenshots/-1200/gsmarena_002.jpg",
                 "https://fdn.gsmarena.com/imgroot/news/21/02/android-12-screenshots/-1200/gsmarena_003.jpg",
                 "https://fdn.gsmarena.com/imgroot/news/21/02/android-12-screenshots/-1200/gsmarena_004.jpg",
                 "https://fdn.gsmarena.com/imgroot/news/21/02/android-12-screenshots/-1200/gsmarena_005.jpg",
                 "https://fdn.gsmarena.com/imgroot/news/21/02/android-12-screenshots/-1200/gsmarena_006.jpg",
-                "https://fdn.gsmarena.com/imgroot/news/21/02/android-12-screenshots/-1200/gsmarena_007.jpg",
-                "https://fdn.gsmarena.com/imgroot/news/21/02/android-12-screenshots/-1200/gsmarena_008.jpg",
-                "https://fdn.gsmarena.com/imgroot/news/21/02/android-12-screenshots/-1200/gsmarena_009.jpg",
             ]
         ],
         [
