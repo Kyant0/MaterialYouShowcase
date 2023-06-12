@@ -1,0 +1,46 @@
+* {
+    font-family: sans-serif;
+}
+
+body {
+    margin: 0;
+}
+
+.headline {
+    padding: 16px;
+    text-align: center;
+}
+
+.showcase_container {
+    display: block;
+    border-radius: 32px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+    margin: 16px;
+    padding-bottom: 8px;
+    color: inherit;
+    text-decoration: none;
+}
+
+.showcase_image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 32px 32px 0 0;
+}
+
+.showcase_text {
+    padding: 0 16px;
+}
+
+.image_container {
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 32px 32px 0 0;
+}
+
+.image {
+    width: 50%;
+    height: 100%;
+    object-fit: cover;
+}
