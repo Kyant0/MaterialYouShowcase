@@ -1,11 +1,6 @@
 const showcase = document.querySelector('.showcase')
 const showcaseMap = [
     [
-        "Designed for you (Android 12)",
-        "src/Designed for you/vlcsnap-2023-06-12-14h00m12s006.png",
-        '29'
-    ],
-    [
         "Making Material You",
         "src/Making Material You/vlcsnap-2023-05-11-12h51m32s100.png",
         '75'
@@ -16,8 +11,13 @@ const showcaseMap = [
         '21'
     ],
     [
+        "Designed for you",
+        "src/Designed for you/vlcsnap-2023-06-12-14h00m12s006.png",
+        '29'
+    ],
+    [
         "Android 12",
-        "https://m-cdn.phonearena.com/images/articles/370012-image/12ax.webp",
+        "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1._Android_12_Keyword_Header.width-1600.format-webp.webp",
         '56'
     ],
 ]
