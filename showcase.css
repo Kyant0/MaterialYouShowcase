@@ -20,10 +20,13 @@ body {
     padding: 4px;
 }
 
+.showcase_subtitle {
+    padding: 0 24px;
+}
+
 .showcase_image {
-    width: calc((100% - 16px) / 2);
-    aspect-ratio: 1920 / 1080;
-    object-fit: cover;
+    height: calc(100vw / 2 / 1920 * 1080 - 12px);
+    object-fit: contain;
     border-radius: 8px;
     margin: 4px;
     background-color: #e5f1ff;

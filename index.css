@@ -25,7 +25,7 @@ body {
 .showcase {
     display: flex;
     flex-wrap: wrap;
-    align-items: center;
+    align-items: stretch;
     list-style: none;
     padding: 8px;
 }
@@ -71,12 +71,6 @@ body {
     height: 200px;
     overflow: hidden;
     border-radius: 32px 32px 0 0;
-}
-
-.image {
-    width: 50%;
-    height: 100%;
-    object-fit: cover;
 }
 
 @media (max-width: 600px) {
